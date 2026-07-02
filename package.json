@@ -1,0 +1,12 @@
+{
+  "name": "clim-eco-net",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site vitrine Clim Eco-Net — nettoyage écologique de thermopompes et climatiseurs",
+  "scripts": {
+    "start": "serve . -l $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
